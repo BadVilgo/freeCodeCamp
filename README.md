@@ -1,4 +1,4 @@
-# In this folder you can find some of my exercises from https://www.freecodecamp.org/
+# In this folder you can find some of my exercises from https://www.freecodecamp.org/badvilgo
 
 ## Table of contents
 
@@ -10,7 +10,9 @@
 I use many sources to learn such as youtube, udemy, treehouse, developer.mozilla, w3schools and so on but freecodecamp is my favourite source of exercises for now, except my own projects.
 
 ## Screenshots
-![Basic_Algorithm_Scripting_Find_the_Longest_Word_in_a_String](img/Basic_Algorithm_Scripting_Find_the_Longest_Word_in_a_String.jpg)
+* Basic_Algorithm_Scripting_Find_the_Longest_Word_in_a_String 
+![1](img/Basic_Algorithm_Scripting_Find_the_Longest_Word_in_a_String.jpg)
+![2](img/Basic_Algorithm_ScriptingReturn_Largest_Numbers_in_Arrays.jpg)
 
 ## Technologies
 * JavaScript 
