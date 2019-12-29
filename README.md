@@ -12,7 +12,12 @@ I use many sources to learn such as youtube, udemy, treehouse, developer.mozilla
 ## Screenshots
 * Basic_Algorithm_Scripting_Find_the_Longest_Word_in_a_String 
 ![1](img/Basic_Algorithm_Scripting_Find_the_Longest_Word_in_a_String.jpg)
+* Basic_Algorithm_ScriptingReturn_Largest_Numbers_in_Arrays
 ![2](img/Basic_Algorithm_ScriptingReturn_Largest_Numbers_in_Arrays.jpg)
+* Basic Algorithm Scripting Confirm the Ending
+![3](img/Basic Algorithm Scripting Confirm the Ending.jpg)
+
+
 
 ## Technologies
 * JavaScript 
