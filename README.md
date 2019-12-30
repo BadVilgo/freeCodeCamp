@@ -16,7 +16,10 @@ I use many sources to learn such as youtube, udemy, treehouse, developer.mozilla
 ![2](img/Basic_Algorithm_ScriptingReturn_Largest_Numbers_in_Arrays.jpg)
 * Basic Algorithm Scripting Confirm the Ending
 ![3](img/Basic_Algorithm_Scripting_Confirm_the_Ending.jpg)
-
+* Basic_Algorithm_Scripting_Repeat_a_String_Repeat_a_String
+![4](img/Basic_Algorithm_Scripting_Repeat_a_String_Repeat_a_String.jpg)
+* Basic_Algorithm_Scripting_Truncate_a_String
+![4](img/Basic_Algorithm_Scripting_Truncate_a_String.jpg)
 
 
 ## Technologies

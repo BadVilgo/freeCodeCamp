@@ -11,7 +11,6 @@ Remember to use Read-Search-Ask if you get stuck. Write your own code.
 
 //======================================MY_SOLUTION================================================================
 function largestOfFour(arr) {
-    // You can do this!
     let max = [];
     for(let i=0; i<arr.length; i++){
         max.push(Math.max(...arr[i]));
