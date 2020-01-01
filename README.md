@@ -20,6 +20,8 @@ I use many sources to learn such as youtube, udemy, treehouse, developer.mozilla
 ![4](img/Basic_Algorithm_Scripting_Repeat_a_String_Repeat_a_String.jpg)
 * Basic_Algorithm_Scripting_Truncate_a_String
 ![4](img/Basic_Algorithm_Scripting_Truncate_a_String.jpg)
+* Basic_Algorithm_Scripting_Finders_Keepers
+![5](img/Basic_Algorithm_Scripting_Finders_Keepers.jpg)
 
 
 ## Technologies
